@@ -5,3 +5,4 @@
 #commit 9 aftermerge
 #commit 10 aftermergesecond
 #commit 11 aftermergethird
+#commit 12 afterrebase
