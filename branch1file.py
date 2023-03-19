@@ -6,3 +6,4 @@
 #commit 10 aftermergesecond
 #commit 11 aftermergethird
 #commit 12 afterrebase
+#commit 13 afterrebasesecond
