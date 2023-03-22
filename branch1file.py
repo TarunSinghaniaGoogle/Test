@@ -8,3 +8,5 @@
 #commit 12 afterrebase
 #commit 13 afterrebasesecond
 #commit 14 afterrebasethird
+#commit 15 doppingcommits
+ 
